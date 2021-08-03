@@ -1,0 +1,53 @@
+for download
+https://akamaicdn.webex.com/client/WBXclient-31.5.1-12/nbr2player.msi
+
+https://akamaicdn.webex.com/client/WBXclient-31.5.1-12/nbr2player.msi 
+
+How to raise a ticket?
+https://drive.google.com/file/d/1koNVCUwZt7k_tCCy9YLJBdmMls872pBD/view?usp=sharing
+
+class live notes
+1)https://drive.google.com/drive/u/2/folders/15No4il2I3eWfjV9N5QvJ2dFwv0C_w8V7
+2)https://drive.google.com/drive/folders/1dIkf2gtKvgPrPCfH8g8FBQy3QSd6aykH
+
+
+Comminuty List
+https://community.simplilearn.com/threads/purdue-pgp-ai-ml-may-2021-cohort-1.66203/
+
+
+https://github.com/sagar0701/PythonAIML_Live
+
+jupyter notebook --notebook-dir=D:\
+
+
+https://www.quora.com/What-is-the-difference-between-AI-trading-and-algo-trading
+https://data-flair.training/blogs/stock-price-prediction-machine-learning-project-in-python/
+https://kanoki.org/2020/04/23/how-to-remove-outliers-in-python/
+https://towardsdatascience.com/reverse-geocoding-in-python-a915acf29eb6
+
+
+
+!pip install geopandas
+!pip install geopy
+# import geopandas as gpd
+# import geopy
+
+https://simplilearnsolutions.webex.com/mw3300/mywebex/default.do?service=7&main_url=%2Ftc3300%2Ftrainingcenter%2Fdefault.do%3Fsiteurl%3Dsimplilearnsolutions%26main_url%3D%252Ftc3300%252Fe.do%253FAT%253DMI%2526%2526Host%253DQUhTSwAAAAUJlJXb4UEdOZe-UmeQZsbzRK_R_T3-R9dzJoj1hcuc_8srTYn9iOiFc1dqxYIwFnOiHem9B2VW07sFrki0up8Y0%2526MTID%253Dt0457e32a1cfc226ce4a162eaa235069e%2526siteurl%253Dsimplilearnsolutions%2526confID%253D198444171237790203%2526ticket%253D4832534b000000050444cda777325305f938a99cbfee836636024c503702650a1dd33210d4d0bde4&siteurl=simplilearnsolutions
+
+https://drive.google.com/drive/folders/1dIkf2gtKvgPrPCfH8g8FBQy3QSd6aykH
+
+pickling
+
+#!  How much total salary cost has increased from year 2011 to 2014
+ck=df.groupby('Year')['TotalPayBenefits'].sum().to_frame()
+ck['shift']=ck.shift(periods=1)
+ck['%diff']=(ck['shift']/ck['TotalPayBenefits'])*100
+ck
+
+
+
+df.loc[df.groupby(['Year'])['TotalPayBenefits'].idxmax()]
+
+
+
+
