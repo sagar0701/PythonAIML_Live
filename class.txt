@@ -27,14 +27,8 @@ https://towardsdatascience.com/reverse-geocoding-in-python-a915acf29eb6
 
 
 
-!pip install geopandas
-!pip install geopy
-# import geopandas as gpd
-# import geopy
-
 https://simplilearnsolutions.webex.com/mw3300/mywebex/default.do?service=7&main_url=%2Ftc3300%2Ftrainingcenter%2Fdefault.do%3Fsiteurl%3Dsimplilearnsolutions%26main_url%3D%252Ftc3300%252Fe.do%253FAT%253DMI%2526%2526Host%253DQUhTSwAAAAUJlJXb4UEdOZe-UmeQZsbzRK_R_T3-R9dzJoj1hcuc_8srTYn9iOiFc1dqxYIwFnOiHem9B2VW07sFrki0up8Y0%2526MTID%253Dt0457e32a1cfc226ce4a162eaa235069e%2526siteurl%253Dsimplilearnsolutions%2526confID%253D198444171237790203%2526ticket%253D4832534b000000050444cda777325305f938a99cbfee836636024c503702650a1dd33210d4d0bde4&siteurl=simplilearnsolutions
 
-https://drive.google.com/drive/folders/1dIkf2gtKvgPrPCfH8g8FBQy3QSd6aykH
 
 pickling
 
@@ -48,6 +42,28 @@ ck
 
 df.loc[df.groupby(['Year'])['TotalPayBenefits'].idxmax()]
 
+
+
+Bigmart
+Car 
+Insurance
+Voice classification
+
+
+For variance calculation, do we need to find varirance
+for each column and wherever its zero we need to drop that feature/column
+
+df.dropna(inplace=t)?
+
+Biases=>
+Mismatch data type
+if string value present
+
+
+Check whether all members of the house have the same poverty level(from Income Qualification how to find this)?check house wise
+Set poverty level of the members and the head of the house within a family.
+
+How to apply same label encoder with test data?ck forum.
 
 
 
