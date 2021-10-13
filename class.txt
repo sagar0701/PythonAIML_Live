@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1koNVCUwZt7k_tCCy9YLJBdmMls872pBD/view?usp=shari
 class live notes
 1)https://drive.google.com/drive/u/2/folders/15No4il2I3eWfjV9N5QvJ2dFwv0C_w8V7
 2)https://drive.google.com/drive/folders/1dIkf2gtKvgPrPCfH8g8FBQy3QSd6aykH
-
+3)https://drive.google.com/drive/folders/11JX5Cu9jYxwKJTsHlZsWsYZPdXOoWDvX?usp=sharing
 
 Comminuty List
 https://community.simplilearn.com/threads/purdue-pgp-ai-ml-may-2021-cohort-1.66203/
@@ -65,5 +65,16 @@ Set poverty level of the members and the head of the house within a family.
 
 How to apply same label encoder with test data?ck forum.
 
+When to use Lasso and when Ridge?
+could you please help me to understand Naive Bayes ?
+https://statquest.org/
 
 
+
+what will if probability come 50%(yes/no)?
+
+
+
+
+Auto complete will work using below line.
+%config Completer.use_jedi = False 
